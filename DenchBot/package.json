@@ -1,0 +1,11 @@
+{
+  "name": "DenchBot",
+  "version": "1.0",
+  "description": "Bot description goes here",
+  "main": "bot.js",
+  "author": "Louis Dench ~ Denchy",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^10.0.1"
+  }
+}
